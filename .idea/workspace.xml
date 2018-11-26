@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c9aa147-103f-48b2-9abf-769be40f8a7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week6/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week6/src/Right_Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week6/src/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week7/src/EquilateralTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week7/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week7/src/RightTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week7/src/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week3/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,70 +59,42 @@
       <usages-collector id="statistics.spring.boot.run.usages" />
       <usages-collector id="statistics.spring.boot.mvc.usages" />
     </session>
+    <session id="1585498972">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="82" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="82" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week6/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week5/src/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week6/src/Triangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-              <folding>
-                <element signature="e#406#407#0" expanded="true" />
-                <element signature="e#429#430#0" expanded="true" />
-                <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#287#288#0" expanded="true" />
-                <element signature="e#315#316#0" expanded="true" />
-                <element signature="e#352#353#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week6/src/Right_Triangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/Week7/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week5/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -155,6 +129,10 @@
         <option value="$PROJECT_DIR$/Week6/src/Right_Triangle.java" />
         <option value="$PROJECT_DIR$/Week6/src/Triangle.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Week7/src/Triangle.java" />
+        <option value="$PROJECT_DIR$/Week7/src/EquilateralTriangle.java" />
+        <option value="$PROJECT_DIR$/Week7/src/RightTriangle.java" />
+        <option value="$PROJECT_DIR$/Week7/src/Main.java" />
       </list>
     </option>
   </component>
@@ -176,35 +154,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Student" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Student" type="462c0819:PsiDirectoryNode" />
+              <item name="ADPROC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ADPROC" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Student" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Student" type="462c0819:PsiDirectoryNode" />
-              <item name="Week5" type="462c0819:PsiDirectoryNode" />
+              <item name="ADPROC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ADPROC" type="462c0819:PsiDirectoryNode" />
+              <item name="Week6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Student" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Student" type="462c0819:PsiDirectoryNode" />
-              <item name="Week5" type="462c0819:PsiDirectoryNode" />
+              <item name="ADPROC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ADPROC" type="462c0819:PsiDirectoryNode" />
+              <item name="Week6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Student" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Student" type="462c0819:PsiDirectoryNode" />
-              <item name="Week6" type="462c0819:PsiDirectoryNode" />
+              <item name="ADPROC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ADPROC" type="462c0819:PsiDirectoryNode" />
+              <item name="Week7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Student" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Student" type="462c0819:PsiDirectoryNode" />
-              <item name="Week6" type="462c0819:PsiDirectoryNode" />
+              <item name="ADPROC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ADPROC" type="462c0819:PsiDirectoryNode" />
+              <item name="Week7" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -216,7 +194,9 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541420435080" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543190535150" />
+    <property name="jdk.selected.JAVA_MODULE" value="9.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -236,7 +216,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Week3" />
@@ -271,53 +251,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="ADPROC" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="ADPROC" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
@@ -326,8 +259,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
@@ -354,10 +287,10 @@
     <option name="totallyTimeSpent" value="8928000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25416037" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25692964" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -366,7 +299,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -464,13 +397,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week6/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week5/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
@@ -481,32 +407,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week5/src/Student.java">
+    <entry file="file://$PROJECT_DIR$/Week7/src/RightTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week6/src/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week6/src/Right_Triangle.java">
+    <entry file="file://$PROJECT_DIR$/Week7/src/EquilateralTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="153">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week7/src/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -514,6 +456,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week6/src/Right_Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week6/src/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week5/src/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week6/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week7/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -568,7 +545,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>9.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
